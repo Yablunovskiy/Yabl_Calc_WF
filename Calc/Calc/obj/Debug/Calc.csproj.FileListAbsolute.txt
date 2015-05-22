@@ -1,0 +1,9 @@
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\bin\Debug\Calc.exe
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\bin\Debug\Calc.pdb
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.Calc.resources
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.exe
+D:\Учеба\Windows_Form\Занятия\16.05.15\Calc\Calc\obj\Debug\Calc.pdb
